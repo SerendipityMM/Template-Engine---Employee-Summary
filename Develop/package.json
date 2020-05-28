@@ -1,0 +1,23 @@
+{
+  "name": "unit10w",
+  "version": "1.0.0",
+  "description": "OOP and testing for week 10 homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerendipityMM/Template-Engine---Employee-Summary.git"
+  },
+  "author": "Mihneva",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SerendipityMM/Template-Engine---Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/SerendipityMM/Template-Engine---Employee-Summary#readme"
+}
